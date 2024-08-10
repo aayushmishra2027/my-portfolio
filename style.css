@@ -246,9 +246,93 @@ section.projects .project-2{
     margin: 0 10px;
 }
 
+section.experience .text-information {
+    padding: 60px 0;
+}
+
+section.experience h4{
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 48px;
+    color: var(--black);
+}
+
+section.experience h5{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    color: var(--black);
+}
 
 
+section.experience p{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--gray-1);
+    padding-top: 20px;
+}
 
+
+section.experience .info-1{
+    padding: 40px 0;
+}
+section.experience .info-2{
+    padding: 30px 0;
+}
+
+section.experience .info-2 img{
+    padding: 30px 0;
+}
+
+section.experience .project-2{
+    padding: 134px 0;
+    margin: 0 10px;
+}
+
+section.education .text-information {
+    padding: 60px 0;
+}
+
+section.education h4{
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 48px;
+    color: var(--black);
+}
+
+section.education h5{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    color: var(--black);
+}
+
+
+section.education p{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--gray-1);
+    padding-top: 20px;
+}
+
+
+section.education .info-1{
+    padding: 40px 0;
+}
+section.education .info-2{
+    padding: 30px 0;
+}
+
+section.education .info-2 img{
+    padding: 30px 0;
+}
+
+section.education .project-2{
+    padding: 134px 0;
+    margin: 0 10px;
+}
 
 /* footer section code  */
 footer {
